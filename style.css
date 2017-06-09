@@ -1,0 +1,68 @@
+
+.jumbotron {
+/*
+	margin-left: 50px;
+	margin-right: 50px;
+*/
+	border-radius: 25px;
+/*	margin-top: 20px;*/
+	margin:auto;
+	background-color:rgba(0,0,0,0);
+	
+}
+
+.container-fluid {
+	background-image: url("http://i.imgur.com/Hc5Z6h6.jpg");
+	background-attachment: fixed;
+	background-position: center; 
+	background-repeat: no-repeat;
+	max-width: 4000px;
+/*	min-height: 500px;*/
+	max-height: 100%;
+}
+
+.headerText {
+	opacity: 1;
+}
+
+.form-control {
+	max-width: 50%;
+	max-height: 50%;
+	height: 40%;
+	width: 50%;
+	display:inline-block; 
+}
+
+.input-group-btn {
+	display: inline-block;
+	padding-bottom: 9px;
+}
+
+.well {
+	margin:auto;
+	margin-left:
+}
+
+.text {
+	margin-right: 30%;
+	margin-left: 5%;
+}
+
+.container {
+
+}
+
+.panel-body {
+	margin:auto;
+	margin-right: 10px;
+}
+
+.foodInput {
+	margin:auto;
+}
+
+
+#recipesPanel {
+	opacity: .6;
+
+}
