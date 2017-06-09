@@ -59,12 +59,17 @@ margin-bottom: 3%;
 }
 
 .container {
-	padding-left: 0%;	
+	width: auto;
+	padding-left: 0%;
+}
+
+.input-group {
+  display: inline;
 }
 
 .panel-body {
-	margin:auto;
-	margin-right: 10px;
+/*	margin:auto;*/
+/*	margin-right: 10px;*/
 	color: black;
 }
 
