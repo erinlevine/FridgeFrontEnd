@@ -8,3 +8,5 @@ To see it in action, you can check out the official repository <a href="https://
 
 Try it out for yourself by clicking <a href="https://vincefio.github.io/whatsinyourfridge/">here!</a>
 
+To read about the entire experience on this first group project, head on over to my blog <a href="http://www.exactlyerin.com/week-5-group-presentations-node-js/">here!</a>
+
